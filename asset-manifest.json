@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Simple_Is_Best/static/css/main.af29c076.chunk.css",
+    "main.js": "/Simple_Is_Best/static/js/main.10716d26.chunk.js",
+    "main.js.map": "/Simple_Is_Best/static/js/main.10716d26.chunk.js.map",
+    "runtime~main.js": "/Simple_Is_Best/static/js/runtime~main.fe24ad13.js",
+    "runtime~main.js.map": "/Simple_Is_Best/static/js/runtime~main.fe24ad13.js.map",
+    "static/js/2.80c1e2bb.chunk.js": "/Simple_Is_Best/static/js/2.80c1e2bb.chunk.js",
+    "static/js/2.80c1e2bb.chunk.js.map": "/Simple_Is_Best/static/js/2.80c1e2bb.chunk.js.map",
+    "index.html": "/Simple_Is_Best/index.html",
+    "precache-manifest.1dc6ff75ab40a11be53061ae1dffc144.js": "/Simple_Is_Best/precache-manifest.1dc6ff75ab40a11be53061ae1dffc144.js",
+    "service-worker.js": "/Simple_Is_Best/service-worker.js",
+    "static/css/main.af29c076.chunk.css.map": "/Simple_Is_Best/static/css/main.af29c076.chunk.css.map",
+    "static/media/spinner-2.gif": "/Simple_Is_Best/static/media/spinner-2.2c9683e0.gif"
+  }
+}
